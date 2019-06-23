@@ -48,6 +48,7 @@ const colors = {
 
   'blue-black': '#161719',
   'blue-grey': '#23262b',
+  primary: '#3d5afe',
 
   black: '#222b2f',
   'grey-darkest': '#273238',
