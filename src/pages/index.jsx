@@ -74,11 +74,11 @@ const Index = () => (
             This personal project helps students to organize, manage their tasks and study through funny games.
           </ProjectCard>
           <ProjectCard
-            title="2gether (provisoral)"
+            title="Krew"
             link="https://www.behance.net/gallery/58937147/Freiheit"
             bg="linear-gradient(145deg, #FFE53B 0%, #FF2525 100%)"
           >
-            This personal project helps students to organize, manage their tasks and study through funny games.
+            Make your employees engage with your company and each other. Communication and cloud platform as a service.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
