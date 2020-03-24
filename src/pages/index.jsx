@@ -74,11 +74,32 @@ const Index = () => (
             This personal project helps students to organize, manage their tasks and study through funny games.
           </ProjectCard>
           <ProjectCard
-            title="Krew"
-            link="https://www.behance.net/gallery/58937147/Freiheit"
+            title="Krew - The social intranet."
+            link="https://krew.kilianstallinger.com"
             bg="linear-gradient(145deg, #FFE53B 0%, #FF2525 100%)"
           >
-            Make your employees engage with your company and each other. Communication and cloud platform as a service.
+            Founded in 2019, Krew is a social intranet plaform that is built to create a more personal and friendly workspace.
+          </ProjectCard>
+          <ProjectCard
+            title="Word Match"
+            link="https://word-match.netlify.com"
+            bg="linear-gradient(145deg, #73c8a9 0%, #373b44 100%)"
+          >
+            Created for "Management Consulting" - A simple app that enables the company's business coaching students to find their biggest value in life. 
+          </ProjectCard>
+          <ProjectCard
+            title="Soon: Krew - The social intranet."
+            link="https://krew.kilianstallinger.com"
+            bg="linear-gradient(145deg, #FFE53B 0%, #FF2525 100%)"
+          >
+            Founded in 2019, Krew is a social intranet plaform that is built to create a more personal and friendly workspace.
+          </ProjectCard>
+          <ProjectCard
+            title="Soon: Teammanager"
+            link="blank"
+            bg="linear-gradient(145deg, #556270 0%, #ff6b6b 100%)"
+          >
+            A real-time sports team and game manager.
           </ProjectCard>
         </ProjectsWrapper>
       </Projects>
