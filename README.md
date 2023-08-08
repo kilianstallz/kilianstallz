@@ -5,6 +5,6 @@ I'm a web developer, the founder of ThreeS Studio - I love to build amazing prod
 
 - 🔭 The founder of [ThreeS Agency](https://threes.at) & ThreeS Airteam.
 - 👨🏼‍💻 Typescript, Go, C#
-- 💼 Former Fullstack Engineer at Devjobs.at; Now Backend Engineer at Findustrial.io
+- 💼 Former Fullstack Engineer at Devjobs.at; Now Software Engineer at Findustrial.io
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kilianstallz?style=social)](https://twitter.com/kilianstallz) 
