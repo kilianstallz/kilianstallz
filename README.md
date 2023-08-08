@@ -3,7 +3,7 @@
 
 I'm a web developer, the founder of ThreeS Studio - I love to build amazing products for the web 🚀. 
 
-- 🔭 The founder of [Krew](https://krew.at), an social intranet platform & the [ThreeS Agency](https://threes.at).
+- 🔭 The founder of [ThreeS Agency](https://threes.at) & ThreeS Airteam.
 - 👨🏼‍💻 Typescript, Go, C#
 - 💼 Former Fullstack Engineer at Devjobs.at; Now Backend Engineer at Findustrial.io
 
